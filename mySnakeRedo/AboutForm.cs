@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace mySnakeRedo
 {
-    public partial class StartForm : Form
+    public partial class AboutForm : Form
     {
-        public StartForm()
+        public AboutForm()
         {
             InitializeComponent();
         }

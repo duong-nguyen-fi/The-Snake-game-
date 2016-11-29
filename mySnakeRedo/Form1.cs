@@ -203,13 +203,7 @@ namespace mySnakeRedo
             Application.Run(new StartForm());
         }
 
-        void resetAllButton()
-        {
-            left = false;
-            right = false;
-            up = false;
-            down = false;
-        }
+        
 
 
     }
